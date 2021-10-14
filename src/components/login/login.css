@@ -1,0 +1,37 @@
+.paper__style {
+    top: 20px;
+    width: 25%;
+    min-width: 400px;
+    min-height: 80vh;
+    position: relative;
+    padding: 3rem;
+}
+
+.item__position {
+    position: relative;
+    top: 40px;
+}
+
+.link:hover {
+    cursor: pointer;
+    color: aqua;
+}
+
+.person__icon {
+    position: absolute;
+    bottom: 15px;
+    right: 6px;
+}
+
+.invalid__credentials {
+    background-color: red;
+    border-radius: 10%;
+    padding: 1rem;
+    margin-bottom: 0;
+} 
+
+.caption {
+    position: absolute;
+    bottom: -5px;
+    right: 22px;
+}
